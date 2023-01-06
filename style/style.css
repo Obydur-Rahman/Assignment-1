@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* ---------------------------------------------------- */
+
+/* header section style */
+header{
+    background: url('/assets/images/banner/banner3.png') no-repeat center;
+    background-size: cover;
+    height: 808px;
+    text-align: right;
+    
+}
+#header-title{
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    padding-top: 216px;
+    padding-right: 230px;
+}
+#header-description{
+
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-right: 230px;
+    padding-top: 24px;
+    padding-bottom: 32px;
+}
+.contact-btn{
+    background: #FFFFFF;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+    border: 0;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    margin-right: 230px;
+}
+
+/* -------------------------------------------------- */
+
+
+
+
+
+/* My shortcomings from the previous year section style */
+
+#past-failures{
+    display: flex;
+    justify-content: center;
+    gap: 87px;
+    padding-top: 131px;
+    padding-bottom:129.7px ;
+}
+
+.failures-details{
+    padding-top: 370px;
+
+
+}
+
+.failures-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    padding-bottom: 24px;
+}
+
+.failures-description{
+    font-size:16px;
+    color: #444343;
+    padding-bottom: 16px;
+
+}
+
+.points{
+    font-size:16px;
+    color: #444343;
+    padding-bottom: 8px;
+}
+
+.check-mark{
+    color:  #16D887;
+    
+}
+
+
+/* ---------------------------------------------------- */
+
+
+/* plans styles */
+
+#plans{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 86px;
+    padding-bottom: 124.4px;
+}
+.plans-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    padding-bottom: 49.7px;
+    text-align: center;
+
+}
+
+.plans-descriptions{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+
+/* -------------------------------------------------- */
+
+
+/* Banner style */

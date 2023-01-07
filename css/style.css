@@ -10,7 +10,8 @@
 nav{
     display: flex;
     justify-content:space-between;
-    padding: 50px 0px 0px 65px;
+    padding: 30px 0px 0px 65px;
+    padding-right: 250px;
     
 }
 nav .logo{
@@ -70,6 +71,7 @@ header{
     font-size: 20px;
     color: #005FAC;
     margin-right: 230px;
+    
 }
 
 /* -------------------------------------------------- */

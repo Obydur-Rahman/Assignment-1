@@ -176,7 +176,7 @@ footer{
     display: flex;
     padding: 130px 230px;
 }
-.form input[type="email"]{
+.email-input{
     background-color: #151414;
     height: 60px;
     width: 300px;
@@ -185,7 +185,7 @@ footer{
     padding: 0 20px;
     margin-top: 25px;
 }
-.form input[type="button"]{
+.subscribe-input{
     height: 64px;
     width: 170px;
     background-color: #005FAC;
@@ -196,14 +196,4 @@ footer{
     margin-top: 13px;
 }
 
-
-
-
-
-/* ------------------------------------------- */
-
-
-
-
-/* footer style */
 

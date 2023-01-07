@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Work Sans', sans-serif;
+    
 }
 
 /* ---------------------------------------------------- */
@@ -120,3 +121,89 @@ header{
 
 
 /* Banner style */
+
+.banner{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 130px;
+}
+
+.banner-content{
+    background-image: url("../assets/images/gradient1.png"), url("../assets/images/watch.png");
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 1140px;
+    padding: 50px;
+    border-radius: 10px;
+
+}
+.banner-content h1{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.banner-btn{
+    background: #FFFFFF;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+    border: 0;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    margin-top:24px ;
+    
+}
+
+
+/* ------------------------------------------ */
+
+
+/* future section style */
+.future h1{
+    font-size: 40px;
+}
+.future p{
+    margin: 20px 200px 20px 0;
+    color: rgb(211, 211, 211);
+}
+.future img{
+    margin-right: 10px;
+}
+footer{
+    background-color: #151414;
+    color: #e1e1e1;
+    display: flex;
+    padding: 130px 230px;
+}
+.form input[type="email"]{
+    background-color: #151414;
+    height: 60px;
+    width: 300px;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 0 20px;
+    margin-top: 25px;
+}
+.form input[type="button"]{
+    height: 64px;
+    width: 170px;
+    background-color: #005FAC;
+    border: 0;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 13px;
+}
+
+
+
+
+
+/* ------------------------------------------- */
+
+
+
+
+/* footer style */
+

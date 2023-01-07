@@ -129,7 +129,7 @@ header{
 }
 
 .banner-content{
-    background-image: url("../assets/images/gradient1.png"), url("../assets/images/watch.png");
+    background-image: url(../assets/images/gradient1.png), url(../assets/images/watch.png);
     background-repeat: no-repeat;
     height: 200px;
     width: 1140px;
